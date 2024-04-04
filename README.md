@@ -1,2 +1,2 @@
 # optimization-ml
-Testing different properties of ML algorithm optimization
+Testing different properties of optimization of ML algorithms
